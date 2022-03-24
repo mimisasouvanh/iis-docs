@@ -12,5 +12,6 @@ msc.type: config
 <a id="001"></a>
 ## Note
 
+hello this is a note
 > [!NOTE]
 > Do not use. This element has been deprecated. Use [system.webServer/management](../system.webserver/management/index.md) instead.
